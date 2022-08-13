@@ -8,16 +8,16 @@
     "build": "parcel build src/index.html"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/luxplanjay/js-22.git"
+    "type": "",
+    "url": ""
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/luxplanjay/js-22/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/luxplanjay/js-22#readme",
+  "homepage": "",
   "devDependencies": {
     "parcel-bundler": "^1.12.4",
     "parcel-plugin-handlebars-precompile": "^1.0.2",
